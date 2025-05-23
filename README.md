@@ -1,60 +1,71 @@
-<h2 align="center">Olá, Mundo! meu nome é Wallace. Sejam bem vindos</h2>
+<h1 align="center">Olá, Mundo! 👋 Eu sou Wallace Souza</h1>
+<h3 align="center">Desenvolvedor em formação | Transição de carreira | Apaixonado por tecnologia</h3>
 
-###
+---
+
+## 👨‍💻 Sobre mim
+
+- 🔄 Atualmente em transição de carreira, vindo do ramo de alimentação.
+- 🚀 Focado em desenvolvimento web e back-end.
+- 📚 Estudando: HTML, CSS, JavaScript, Python, C#, C++.
+- 🎯 Buscando minha primeira oportunidade na área de desenvolvimento.
+- 🛠️ Apaixonado por aprender, criar soluções e evoluir constantemente.
+
+---
+
+## 🚀 Tecnologias que uso e estudo:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WallaceSouzapy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=WallaceSouzapy&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WallaceSouzapy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Linguagens%20e%20no%C3%A7%C3%B5es" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmYwMTUyMTZuaHlqdzJ4enU2OW85YWJ1em51aTZ1cTgydmkzaTIzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
+## 📊 Estatísticas GitHub:
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WallaceSouzapy&show_icons=true&theme=dracula&locale=pt-br&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=WallaceSouzapy&locale=pt-br&theme=dracula&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceSouzapy&layout=compact&langs_count=6&theme=dracula" height="150"/>
 </div>
 
-###
+---
+
+## 🌍 Onde me encontrar:
 
 <div align="left">
   <a href="https://www.instagram.com/wallacewho96/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="wallacev.souza@uni9.edu.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  
+  <a href="mailto:wallacev.souza@uni9.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BGzfNPK0LSue0V8qNRpGmsA%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://codepen.io/WALLACE-WILLIAM-VIRGILIO-DE-SOUZA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🐍 Snake comendo meus commits:
 
-<img src="https://raw.githubusercontent.com/WallaceSouzapy/WallaceSouzapy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/WallaceSouzapy/WallaceSouzapy/output/snake.svg" alt="Snake animation"/>
 
-###
+---
+
+## 📈 Contador de visitas:
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/WallaceSouzapy/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/WallaceSouzapy/count.svg"/>
 </div>
-
-###
