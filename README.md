@@ -31,7 +31,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WallaceSouzapy&show_icons=true&theme=dracula&locale=pt-br&count_private=true" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=WallaceSouzapy&locale=pt-br&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceSouzapy&layout=compact&langs_count=6&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceSouzapy&layout=compact&langs_count=6&theme=dracula&locale=pt-br&custom_title=Linguagens+Mais+Usadas" height="150"/>
 </div>
 
 ---
@@ -57,8 +57,6 @@
 </div>
 
 ---
-
-## 🐍 Snake comendo meus commits:
 
 <img src="https://raw.githubusercontent.com/WallaceSouzapy/WallaceSouzapy/output/snake.svg" alt="Snake animation"/>
 
